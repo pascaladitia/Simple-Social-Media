@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Social Media</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post">Post</string>
+    <string name="todo">Todo</string>
+    <string name="user">User</string>
+    <string name="album">Album</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="my_album">My Album</string>
+    <string name="my_todo">My Todo</string>
+    <string name="name">Name</string>
+    <string name="username">username</string>
+    <string name="add_post">Add Post</string>
+    <string name="post_user">Post User</string>
+</resources>
